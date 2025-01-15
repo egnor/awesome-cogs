@@ -18,7 +18,10 @@ This list is incomplete; you can help by expanding it! [Pull requests](https://g
 
 ## Community developed plugins and helpers
 
-TBD!
+- [Mini OSC for COGS](https://github.com/guigro/cogs-mini-osc) - a little [OSC (Open Sound Control)](https://en.wikipedia.org/wiki/Open_Sound_Control) server in Python (using Flask); since COGS supports OSC I/O natively, you can (ab)use it as a general interface to your own code (not just for sound!)
+- Don't forget the [official COGS plugins](https://docs.cogs.show/plugins/) - Google Sheets, HTTP, Buzzshot and more!
+
+More TBD!
 
 ## Tips, tricks, and questionable advice
 
