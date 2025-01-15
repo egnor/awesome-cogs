@@ -10,7 +10,7 @@ This list is incomplete; you can help by expanding it! [Pull requests](https://g
 ## Official COGS resources
 
 - [COGS home page](https://cogs.show/)
-- [COGS Discord](https://discord.com/invite/N9zwR7Byrt) (a good place to chat about this list!)
+- [COGS Discord chat server](https://discord.com/invite/N9zwR7Byrt) (a good place to chat about this list!)
 - [Tutorials](https://cogs.show/tutorials/basics)
 - [Knowledge base](https://cogs.zendesk.com/hc/en-gb)
 - [Technical documentation](https://docs.cogs.show/): [releases](https://docs.cogs.show/releases/) [(beta)](https://docs.cogs.show/releases/beta/), [examples](https://docs.cogs.show/examples/), [official plugins](https://docs.cogs.show/plugins/), [custom expressions](https://docs.cogs.show/)
